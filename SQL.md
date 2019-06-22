@@ -10,9 +10,9 @@
    - Ordered by Totals Orders Placed
  - SQLRETEN
    - Created 3 Temp Tables
-    - Week first order shipped by customer
-    - Week each transaction shipped
-    - Number of customers by first order week
+     - Week first order shipped by customer
+     - Week each transaction shipped
+     - Number of customers by first order week
    - Pulled First Order Week, The Progressive Week, Total Number of Customer from the First Order Week, Total Number of Customers from the Progressive Week, The Retention Rate
    - Joined the temp tables to the orders table
    - Grouped by First Order Week and Progressive Week
